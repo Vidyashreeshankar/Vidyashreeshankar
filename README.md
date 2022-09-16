@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vidyashreeshankar
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Microsoft
+- 💞️ I’m looking to collaborate on Github
 - 📫 you can reach me through my mail Id
 
 <!---
